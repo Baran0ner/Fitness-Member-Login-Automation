@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|c:\\users\\baran\\onedrive\\desktop\\fitness\\fitness\\fitness\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\fitness\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|c:\\users\\baran\\onedrive\\desktop\\fitness\\fitness\\fitness\\uyelerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\uyelerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|c:\\users\\baran\\onedrive\\desktop\\fitness\\fitness\\fitness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|c:\\users\\baran\\onedrive\\desktop\\fitness\\fitness\\fitness\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\fitness\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\fitness\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\fitness\\uyelerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\uyelerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|c:\\users\\baran\\onedrive\\desktop\\fitness\\fitness\\fitness\\g\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\g\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\fitness\\g\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\g\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\fitness\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|c:\\users\\baran\\onedrive\\desktop\\fitness\\fitness\\fitness\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61FD34C-651D-4058-ACC9-3BE13523C5D2}|Fitness\\Fitness.csproj|solutionrelative:fitness\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 61,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Program.cs",
+              "RelativeDocumentMoniker": "Fitness\\Program.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Program.cs",
+              "RelativeToolTip": "Fitness\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:21:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UyeleriGoruntule.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\UyeleriGoruntule.cs",
+              "RelativeDocumentMoniker": "Fitness\\UyeleriGoruntule.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\UyeleriGoruntule.cs",
+              "RelativeToolTip": "Fitness\\UyeleriGoruntule.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAqwF8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:06:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UyeEkle.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\UyeEkle.cs",
+              "RelativeDocumentMoniker": "Fitness\\UyeEkle.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\UyeEkle.cs",
+              "RelativeToolTip": "Fitness\\UyeEkle.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:04:36.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Login.cs",
+              "RelativeDocumentMoniker": "Fitness\\Login.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Login.cs [Design]",
+              "RelativeToolTip": "Fitness\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:44:11.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Login.cs",
+              "RelativeDocumentMoniker": "Fitness\\Login.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Login.cs",
+              "RelativeToolTip": "Fitness\\Login.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:03:47.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anasayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Fitness\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Anasayfa.cs [Design]*",
+              "RelativeToolTip": "Fitness\\Anasayfa.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:04:21.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Fitness\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Anasayfa.cs*",
+              "RelativeToolTip": "Fitness\\Anasayfa.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:04:22.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "G\u00FCncelleSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\G\u00FCncelleSil.cs",
+              "RelativeDocumentMoniker": "Fitness\\G\u00FCncelleSil.cs",
+              "ToolTip": "C:\\Users\\52emr\\source\\repos\\Fitness\\Fitness\\G\u00FCncelleSil.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\52emr\\source\\repos\\Fitness\\Fitness\\G\u00FCncelleSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:05:33.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "G\u00FCncelleSil.cs",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\G\u00FCncelleSil.cs",
+              "RelativeDocumentMoniker": "Fitness\\G\u00FCncelleSil.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\G\u00FCncelleSil.cs",
+              "RelativeToolTip": "Fitness\\G\u00FCncelleSil.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:05:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grafik.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Grafik.cs",
+              "RelativeDocumentMoniker": "Fitness\\Grafik.cs",
+              "ToolTip": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\Grafik.cs [Design]",
+              "RelativeToolTip": "Fitness\\Grafik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:08:17.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UyeleriGoruntule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\UyeleriGoruntule.cs",
+              "RelativeDocumentMoniker": "Fitness\\UyeleriGoruntule.cs",
+              "ToolTip": "C:\\Users\\52emr\\source\\repos\\Fitness\\Fitness\\UyeleriGoruntule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\52emr\\source\\repos\\Fitness\\Fitness\\UyeleriGoruntule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:06:43.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UyeEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baran\\OneDrive\\Desktop\\Fitness\\Fitness\\Fitness\\UyeEkle.cs",
+              "RelativeDocumentMoniker": "Fitness\\UyeEkle.cs",
+              "ToolTip": "C:\\Users\\52emr\\source\\repos\\Fitness\\Fitness\\UyeEkle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\52emr\\source\\repos\\Fitness\\Fitness\\UyeEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:04:35.487Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
